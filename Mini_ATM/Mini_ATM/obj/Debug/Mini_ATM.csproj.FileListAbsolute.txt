@@ -1,0 +1,8 @@
+C:\Users\Hakan Akıncı\source\repos\Mini_ATM\Mini_ATM\bin\Debug\Mini_ATM.exe.config
+C:\Users\Hakan Akıncı\source\repos\Mini_ATM\Mini_ATM\bin\Debug\Mini_ATM.exe
+C:\Users\Hakan Akıncı\source\repos\Mini_ATM\Mini_ATM\bin\Debug\Mini_ATM.pdb
+C:\Users\Hakan Akıncı\source\repos\Mini_ATM\Mini_ATM\obj\Debug\Mini_ATM.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\Mini_ATM\Mini_ATM\obj\Debug\Mini_ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hakan Akıncı\source\repos\Mini_ATM\Mini_ATM\obj\Debug\Mini_ATM.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\Mini_ATM\Mini_ATM\obj\Debug\Mini_ATM.exe
+C:\Users\Hakan Akıncı\source\repos\Mini_ATM\Mini_ATM\obj\Debug\Mini_ATM.pdb

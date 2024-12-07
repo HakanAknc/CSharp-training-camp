@@ -1,0 +1,17 @@
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\bin\Debug\net6.0-windows\hesap_makinesi.exe
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\bin\Debug\net6.0-windows\hesap_makinesi.deps.json
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\bin\Debug\net6.0-windows\hesap_makinesi.runtimeconfig.json
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\bin\Debug\net6.0-windows\hesap_makinesi.dll
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\bin\Debug\net6.0-windows\hesap_makinesi.pdb
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\net6.0-windows\hesap_makinesi.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\net6.0-windows\hesap_makinesi.Form1.resources
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\net6.0-windows\hesap_makinesi.csproj.GenerateResource.cache
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\net6.0-windows\hesap_makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\net6.0-windows\hesap_makinesi.AssemblyInfoInputs.cache
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\net6.0-windows\hesap_makinesi.AssemblyInfo.cs
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\net6.0-windows\hesap_makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\net6.0-windows\hesap_makinesi.dll
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\net6.0-windows\refint\hesap_makinesi.dll
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\net6.0-windows\hesap_makinesi.pdb
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\net6.0-windows\hesap_makinesi.genruntimeconfig.cache
+C:\Users\Hakan Akıncı\source\repos\hesap_makinesi\hesap_makinesi\obj\Debug\net6.0-windows\ref\hesap_makinesi.dll
