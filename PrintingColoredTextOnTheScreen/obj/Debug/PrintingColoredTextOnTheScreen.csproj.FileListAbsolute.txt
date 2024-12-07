@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\PrintingColoredTextOnTheScreen\bin\Debug\PrintingColoredTextOnTheScreen.exe.config
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\PrintingColoredTextOnTheScreen\bin\Debug\PrintingColoredTextOnTheScreen.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\PrintingColoredTextOnTheScreen\bin\Debug\PrintingColoredTextOnTheScreen.pdb
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\PrintingColoredTextOnTheScreen\obj\Debug\PrintingColoredTextOnTheScreen.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\PrintingColoredTextOnTheScreen\obj\Debug\PrintingColoredTextOnTheScreen.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\PrintingColoredTextOnTheScreen\obj\Debug\PrintingColoredTextOnTheScreen.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\PrintingColoredTextOnTheScreen\obj\Debug\PrintingColoredTextOnTheScreen.pdb
