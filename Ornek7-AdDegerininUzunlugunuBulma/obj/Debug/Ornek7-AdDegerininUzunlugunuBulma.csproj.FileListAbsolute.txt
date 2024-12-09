@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Ornek7-AdDegerininUzunlugunuBulma\bin\Debug\Ornek7-AdDegerininUzunlugunuBulma.exe.config
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Ornek7-AdDegerininUzunlugunuBulma\bin\Debug\Ornek7-AdDegerininUzunlugunuBulma.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Ornek7-AdDegerininUzunlugunuBulma\bin\Debug\Ornek7-AdDegerininUzunlugunuBulma.pdb
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Ornek7-AdDegerininUzunlugunuBulma\obj\Debug\Ornek7-AdDegerininUzunlugunuBulma.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Ornek7-AdDegerininUzunlugunuBulma\obj\Debug\Ornek7-AdDegerininUzunlugunuBulma.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Ornek7-AdDegerininUzunlugunuBulma\obj\Debug\Ornek7-AdDegerininUzunlugunuBulma.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Ornek7-AdDegerininUzunlugunuBulma\obj\Debug\Ornek7-AdDegerininUzunlugunuBulma.pdb
