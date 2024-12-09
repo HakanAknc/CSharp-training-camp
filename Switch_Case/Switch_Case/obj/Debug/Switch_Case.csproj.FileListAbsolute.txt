@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Switch_Case\Switch_Case\bin\Debug\Switch_Case.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Switch_Case\Switch_Case\bin\Debug\Switch_Case.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Switch_Case\Switch_Case\bin\Debug\Switch_Case.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Switch_Case\Switch_Case\obj\Debug\Switch_Case.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Switch_Case\Switch_Case\obj\Debug\Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Switch_Case\Switch_Case\obj\Debug\Switch_Case.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Switch_Case\Switch_Case\obj\Debug\Switch_Case.pdb

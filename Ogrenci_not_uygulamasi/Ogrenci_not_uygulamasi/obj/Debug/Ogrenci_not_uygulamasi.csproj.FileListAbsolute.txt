@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Ogrenci_not_uygulamasi\Ogrenci_not_uygulamasi\bin\Debug\Ogrenci_not_uygulamasi.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Ogrenci_not_uygulamasi\Ogrenci_not_uygulamasi\bin\Debug\Ogrenci_not_uygulamasi.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Ogrenci_not_uygulamasi\Ogrenci_not_uygulamasi\bin\Debug\Ogrenci_not_uygulamasi.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Ogrenci_not_uygulamasi\Ogrenci_not_uygulamasi\obj\Debug\Ogrenci_not_uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Ogrenci_not_uygulamasi\Ogrenci_not_uygulamasi\obj\Debug\Ogrenci_not_uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Ogrenci_not_uygulamasi\Ogrenci_not_uygulamasi\obj\Debug\Ogrenci_not_uygulamasi.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Ogrenci_not_uygulamasi\Ogrenci_not_uygulamasi\obj\Debug\Ogrenci_not_uygulamasi.pdb
