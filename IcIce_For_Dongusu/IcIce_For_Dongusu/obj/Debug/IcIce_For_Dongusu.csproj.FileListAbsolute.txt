@@ -1,0 +1,8 @@
+C:\Users\Hakan Akıncı\source\repos\IcIce_For_Dongusu\IcIce_For_Dongusu\bin\Debug\IcIce_For_Dongusu.exe.config
+C:\Users\Hakan Akıncı\source\repos\IcIce_For_Dongusu\IcIce_For_Dongusu\bin\Debug\IcIce_For_Dongusu.exe
+C:\Users\Hakan Akıncı\source\repos\IcIce_For_Dongusu\IcIce_For_Dongusu\bin\Debug\IcIce_For_Dongusu.pdb
+C:\Users\Hakan Akıncı\source\repos\IcIce_For_Dongusu\IcIce_For_Dongusu\obj\Debug\IcIce_For_Dongusu.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\IcIce_For_Dongusu\IcIce_For_Dongusu\obj\Debug\IcIce_For_Dongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hakan Akıncı\source\repos\IcIce_For_Dongusu\IcIce_For_Dongusu\obj\Debug\IcIce_For_Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\IcIce_For_Dongusu\IcIce_For_Dongusu\obj\Debug\IcIce_For_Dongusu.exe
+C:\Users\Hakan Akıncı\source\repos\IcIce_For_Dongusu\IcIce_For_Dongusu\obj\Debug\IcIce_For_Dongusu.pdb

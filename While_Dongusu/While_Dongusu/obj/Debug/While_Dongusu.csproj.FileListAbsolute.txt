@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\While_Dongusu\While_Dongusu\bin\Debug\While_Dongusu.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\While_Dongusu\While_Dongusu\bin\Debug\While_Dongusu.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\While_Dongusu\While_Dongusu\bin\Debug\While_Dongusu.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\While_Dongusu\While_Dongusu\obj\Debug\While_Dongusu.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\While_Dongusu\While_Dongusu\obj\Debug\While_Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\While_Dongusu\While_Dongusu\obj\Debug\While_Dongusu.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\While_Dongusu\While_Dongusu\obj\Debug\While_Dongusu.pdb

@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Oğrenci_Sinav_Not_Uygulamasi\Oğrenci_Sinav_Not_Uygulamasi\bin\Debug\Oğrenci_Sinav_Not_Uygulamasi.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Oğrenci_Sinav_Not_Uygulamasi\Oğrenci_Sinav_Not_Uygulamasi\bin\Debug\Oğrenci_Sinav_Not_Uygulamasi.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Oğrenci_Sinav_Not_Uygulamasi\Oğrenci_Sinav_Not_Uygulamasi\bin\Debug\Oğrenci_Sinav_Not_Uygulamasi.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Oğrenci_Sinav_Not_Uygulamasi\Oğrenci_Sinav_Not_Uygulamasi\obj\Debug\Oğrenci_Sinav_Not_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Oğrenci_Sinav_Not_Uygulamasi\Oğrenci_Sinav_Not_Uygulamasi\obj\Debug\Oğrenci_Sinav_Not_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Oğrenci_Sinav_Not_Uygulamasi\Oğrenci_Sinav_Not_Uygulamasi\obj\Debug\Oğrenci_Sinav_Not_Uygulamasi.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Oğrenci_Sinav_Not_Uygulamasi\Oğrenci_Sinav_Not_Uygulamasi\obj\Debug\Oğrenci_Sinav_Not_Uygulamasi.pdb
