@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe.config
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.pdb
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.pdb
