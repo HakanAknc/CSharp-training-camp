@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Ornek11-ForOrnekleri\bin\Debug\Ornek11-ForOrnekleri.exe.config
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Ornek11-ForOrnekleri\bin\Debug\Ornek11-ForOrnekleri.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Ornek11-ForOrnekleri\bin\Debug\Ornek11-ForOrnekleri.pdb
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Ornek11-ForOrnekleri\obj\Debug\Ornek11-ForOrnekleri.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Ornek11-ForOrnekleri\obj\Debug\Ornek11-ForOrnekleri.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Ornek11-ForOrnekleri\obj\Debug\Ornek11-ForOrnekleri.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Ornek11-ForOrnekleri\obj\Debug\Ornek11-ForOrnekleri.pdb
