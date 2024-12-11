@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\TypeCasting\bin\Debug\TypeCasting.exe.config
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\TypeCasting\bin\Debug\TypeCasting.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\TypeCasting\bin\Debug\TypeCasting.pdb
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\TypeCasting\obj\Debug\TypeCasting.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\TypeCasting\obj\Debug\TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\TypeCasting\obj\Debug\TypeCasting.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\TypeCasting\obj\Debug\TypeCasting.pdb
