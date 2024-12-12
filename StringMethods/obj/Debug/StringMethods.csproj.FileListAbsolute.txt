@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\StringMethods\bin\Debug\StringMethods.exe.config
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\StringMethods\bin\Debug\StringMethods.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\StringMethods\bin\Debug\StringMethods.pdb
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\StringMethods\obj\Debug\StringMethods.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\StringMethods\obj\Debug\StringMethods.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\StringMethods\obj\Debug\StringMethods.pdb

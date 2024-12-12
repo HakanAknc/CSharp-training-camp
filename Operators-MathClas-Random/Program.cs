@@ -69,7 +69,7 @@ namespace Operators_MathClas_Random
             #region hypotenuse calculator program
 
             Console.Write("Enter side A: ");
-            double a = Convert.ToDouble(Console.ReadLine());
+            double a = Convert.ToDouble(Console.ReadLine()); 
 
             Console.Write("Enter side B: ");
             double b = Convert.ToDouble(Console.ReadLine());
