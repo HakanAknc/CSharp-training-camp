@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\OrnekProje6\bin\Debug\OrnekProje6.exe.config
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\OrnekProje6\bin\Debug\OrnekProje6.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\OrnekProje6\bin\Debug\OrnekProje6.pdb
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\OrnekProje6\obj\Debug\OrnekProje6.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\OrnekProje6\obj\Debug\OrnekProje6.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\OrnekProje6\obj\Debug\OrnekProje6.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\OrnekProje6\obj\Debug\OrnekProje6.pdb
