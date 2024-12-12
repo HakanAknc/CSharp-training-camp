@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe.config
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\NumberGuessingGame\bin\Debug\NumberGuessingGame.pdb
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\NumberGuessingGame\obj\Debug\NumberGuessingGame.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\NumberGuessingGame\obj\Debug\NumberGuessingGame.pdb
