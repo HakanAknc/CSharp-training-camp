@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\oopProje6\bin\Debug\oopProje6.exe.config
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\oopProje6\bin\Debug\oopProje6.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\oopProje6\bin\Debug\oopProje6.pdb
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\oopProje6\obj\Debug\oopProje6.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\oopProje6\obj\Debug\oopProje6.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\oopProje6\obj\Debug\oopProje6.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\oopProje6\obj\Debug\oopProje6.pdb
